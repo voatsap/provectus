@@ -1,5 +1,7 @@
 ## Provectus 2018 Building with Terraform code samples
 
+[Presentation Slides](https://docs.google.com/presentation/d/1ZYWxuzoPwWyzmrM-GJvCnP8DurLZqGRLg-xYMHO4JIw/edit?usp=sharing)
+
 ### Sample1. Creating Ubuntu instance using one file
 
 1.  Init the Terrarorm
