@@ -4,5 +4,6 @@
 *.tfstate.backup
 */.*
 */*/.*
+.*
 # Module directory
 .terraform/
